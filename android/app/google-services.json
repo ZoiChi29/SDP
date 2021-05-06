@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "916157208538",
+    "firebase_url": "https://appointment-2f66d-default-rtdb.firebaseio.com",
+    "project_id": "appointment-2f66d",
+    "storage_bucket": "appointment-2f66d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916157208538:android:421698452612f4551d92e3",
+        "android_client_info": {
+          "package_name": "com.analytic.resturent_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916157208538-3ic8lkn8hh7v0l9ns23jsgqaitmtit60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe4KGVPYyFVEZi_-onoqfiLsarnNVt6sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916157208538-3ic8lkn8hh7v0l9ns23jsgqaitmtit60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
