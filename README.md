@@ -1,4 +1,4 @@
-# resturent_book
+# Online Appointment Application
 
 A new Flutter application.
 
