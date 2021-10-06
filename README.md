@@ -1,4 +1,4 @@
-# Online Appointment Application (SDP)
+# Online Appointment Application (Senior Design Project)
 
 
 A new Flutter application.
